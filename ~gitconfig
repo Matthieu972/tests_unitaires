@@ -1,0 +1,14 @@
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+
+[user]
+        name = Matthieu972
+        email = matthieu.mondesir@gmail.com
+
+[alias]
+        ci = commit
+        co = checkout
+        st = status
+        br = branch
